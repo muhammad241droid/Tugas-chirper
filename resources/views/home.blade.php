@@ -119,7 +119,7 @@
         <div>
             <p>🚀 Chirper Space 2026</p>
             <p class="text-gray-500">
-                Built by Muhammad Rafli Daffa Aulia
+                Built by Muhammad Rafli Daffa Aulia (240170160)
             </p>
         </div>
     </footer>
